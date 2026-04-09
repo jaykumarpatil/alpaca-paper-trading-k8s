@@ -1,0 +1,3 @@
+resources:
+  - backtest-worker-deployment.yaml
+  - cluster-scheduling-policies.yaml
